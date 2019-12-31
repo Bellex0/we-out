@@ -42,4 +42,11 @@ test:
   password: 
   timeout: 5000 
 
- 
+production: 
+  adapter: postgresql
+  encoding: unicode
+  database: we-out_production
+  pool: 5 
+  username: belle
+  password: 
+  timeout: 5000 
