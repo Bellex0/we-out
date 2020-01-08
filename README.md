@@ -7,8 +7,6 @@ This is the first version of a web application built by software engineers, Kari
 
 Utilized JavaScript, Ruby on Rails, bcrypt, Bootstrap, SQLite, and jQuery. 
 
-Youtube demo: https://youtu.be/XUWCRHmMcyc
-
 Future goals: Will be adding Eventbrite and StubHub APIs to suggest events to users around their area.
 
 ## Installation
