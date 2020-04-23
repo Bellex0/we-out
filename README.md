@@ -10,7 +10,7 @@ Utilized JavaScript, Ruby on Rails, bcrypt, Bootstrap, SQLite, and jQuery.
 Future goals: Will be adding Eventbrite and StubHub APIs to suggest events to users around their area.
 
 ## Installation
-1) Fork (optional) and clone or download this repository to local system
+1) Clone or download this repository to local system
 2) Use preferred text editor and/or terminal to navigate into `we-out` directory
 3) Run `bundle install` (or `bundle i`) in terminal
 4) Run `rails db:create` in terminal to create database
